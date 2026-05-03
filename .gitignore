@@ -22,8 +22,6 @@ logs/
 .idea/
 
 # Large/generated outputs
-results/
-tuning_results/
 saved_models/
 
 # Model checkpoints
