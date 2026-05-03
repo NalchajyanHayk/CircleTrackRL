@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Large/generated outputs
+results/
+tuning_results/
+saved_models/
+
+# Model checkpoints
+*.zip
+*.pkl
+*.pt
+*.pth
+
+# Optuna databases
+*.db
